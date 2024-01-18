@@ -38,7 +38,7 @@
     <ItemGroup Label="Analyzer Package References">
         <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="8.0.0" PrivateAssets="all"/>
         <PackageReference Include="Roslynator.Analyzers" Version="4.6.4" PrivateAssets="all"/>
-        <PackageReference Include="SonarAnalyzer.CSharp" Version="9.12.0.78982" PrivateAssets="all"/>
+        <PackageReference Include="SonarAnalyzer.CSharp" Version="9.17.0.82934" PrivateAssets="all"/>
     </ItemGroup>
 
 </Project>
