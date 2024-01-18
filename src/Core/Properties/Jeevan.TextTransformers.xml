@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jeevan.TextTransformers</name>
+    </assembly>
+    <members>
+        <member name="T:Jeevan.TextTransformers.AffixTransform">
+            <inheritdoc />
+        </member>
+        <member name="T:Jeevan.TextTransformers.CaseTransform">
+            <inheritdoc cref="T:Jeevan.TextTransformers.Transform" />
+        </member>
+        <member name="T:Jeevan.TextTransformers.PrefixTransform">
+            <inheritdoc cref="T:Jeevan.TextTransformers.AffixTransform" />
+        </member>
+        <member name="T:Jeevan.TextTransformers.SuffixTransform">
+            <inheritdoc cref="T:Jeevan.TextTransformers.AffixTransform" />
+        </member>
+        <member name="M:Jeevan.TextTransformers.Transform.Run(System.String)">
+            <summary>
+                Runs the transform on the given <paramref name="input"/> and returns the transformed value.
+            </summary>
+            <param name="input">The input string to transform.</param>
+            <returns>The transform value.</returns>
+        </member>
+    </members>
+</doc>

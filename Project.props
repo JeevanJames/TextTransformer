@@ -1,0 +1,10 @@
+<Project>
+
+    <PropertyGroup>
+        <BaseNamespace>Jeevan.TextTransformers</BaseNamespace>
+        <Product>Jeevan.TextTransformers</Product>
+        <RepositoryName>TextTransformers</RepositoryName>
+        <CopyrightYears>2023</CopyrightYears>
+    </PropertyGroup>
+
+</Project>
